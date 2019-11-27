@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "TM Produto Treinamento",
+    "owner": "Wagner",
+    "description": "Desenhar a arquitetura e fazer a TM"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "maria"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Fluxo 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "João"
+  }
+}
