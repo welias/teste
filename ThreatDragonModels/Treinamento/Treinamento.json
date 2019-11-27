@@ -5,8 +5,18 @@
     "description": "Teste"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Maria"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Diagram sample",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "JOhn"
   }
 }
